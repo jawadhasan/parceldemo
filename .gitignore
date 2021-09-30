@@ -26,6 +26,9 @@ Bin/
 obj/
 Obj/
 
+dist/
+*.cache/
+
 .vscode/
 wwwroot/
 
